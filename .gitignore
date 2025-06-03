@@ -3,5 +3,7 @@
 .env
 __pycache__/
 output/
-val/
-train/
+val/*
+!val/.gitkeep
+train/*
+!train/.gitkeep
